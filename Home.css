@@ -4,13 +4,26 @@
 
 .u-section-1 .u-text-1 {
   width: 581px;
-  margin: 60px auto;
+  margin: 145px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 175px auto 0 -50px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
     margin-top: 219px;
-    margin-bottom: 0;
     width: 540px;
   }
 }

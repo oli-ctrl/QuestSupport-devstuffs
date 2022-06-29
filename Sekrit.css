@@ -1,0 +1,133 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 773px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 570px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 93px;
+  margin: -69px 865px 0 167px;
+}
+
+.u-section-1 .u-custom-html-2 {
+  height: auto;
+  min-height: 93px;
+  margin: -594px 865px 0 166px;
+}
+
+.u-section-1 .u-custom-html-3 {
+  height: auto;
+  min-height: 93px;
+  margin: -93px 165px 0 865px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  height: auto;
+  min-height: 93px;
+  margin: 408px 165px 60px 865px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 765px;
+    margin-left: 67px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 765px;
+    margin-left: 66px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 65px;
+    margin-left: 765px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 65px;
+    margin-left: 765px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 612px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 612px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-right: 0;
+    margin-left: 610px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 0;
+    margin-left: 610px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 743px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-top: -39px;
+    margin-right: 432px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 432px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-left: 430px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-left: 430px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 543px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-top: 161px;
+    margin-right: 232px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 232px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    margin-left: 230px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-left: 230px;
+  }
+}
