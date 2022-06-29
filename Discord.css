@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 404px;
+  min-height: 858px;
 }
 
 .u-section-1 .u-text-1 {
@@ -13,5 +13,23 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 43px auto 60px;
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  height: auto;
+  min-height: 307px;
+  width: 506px;
+  margin: 93px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-2 {
+    width: 340px;
+  }
 }
